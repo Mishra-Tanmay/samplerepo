@@ -1,0 +1,8 @@
+Windows:
+git-scm.com/downloads
+
+Mac
+git --version
+
+Linux
+apt get install git-all
